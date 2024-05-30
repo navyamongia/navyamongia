@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Navya Mongia</h1>
-<h3 align="center">Passionate frontend developer</h3>
+<h3 align="center">Passionate Frontend Developer</h3>
 <img src ="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?t=st=1715961830~exp=1715965430~hmac=d0e5e973ea8658c7ad34bfab4494f2a5a2cf462e9e7538347b66e4f8e8d6aaa9&w=740" alt="coding" width="400" align ="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navyamongia&label=Profile%20views&color=0e75b6&style=flat" alt="navyamongia" /> </p>
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navyamongia&show_icons=true&locale=en&layout=compact" alt="navyamongia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navyamongia&show_icons=true&locale=en" alt="navyamongia" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navyamongia&" alt="navyamongia" /></p>
